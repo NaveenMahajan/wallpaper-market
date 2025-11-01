@@ -1,0 +1,29 @@
+[
+  {
+    "id": "p1",
+    "title": "Sunset Cliffs",
+    "author": "Amit",
+    "price": 199,
+    "lowRes": "https://picsum.photos/id/1016/600/360",
+    "hd": "",
+    "forSale": true
+  },
+  {
+    "id": "p2",
+    "title": "City Night",
+    "author": "Neha",
+    "price": 299,
+    "lowRes": "https://picsum.photos/id/1011/600/360",
+    "hd": "",
+    "forSale": true
+  },
+  {
+    "id": "p3",
+    "title": "Mountains",
+    "author": "Ravi",
+    "price": 0,
+    "lowRes": "https://picsum.photos/id/1022/600/360",
+    "hd": "",
+    "forSale": false
+  }
+]
